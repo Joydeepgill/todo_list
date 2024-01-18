@@ -8,7 +8,8 @@ will be backend database which will store the tasks as a table. Each user will h
 the following fields: id, task, and status (done, in progress). For now, I am deciding to not use a noSQL database since my data is not unstructued (ex:
 JSON or documents). 
 
-It will be possible to have different tables with the same name, as one person can have more than one task & a task can have . This will be a one <-> many relationship (this relationship is bidirectional). 
+The same task can be worked on by several people.  
+
 
 The table will look something like the following: 
 
