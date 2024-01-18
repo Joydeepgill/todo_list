@@ -1,4 +1,7 @@
-# todo_list
+# todo_list 
+
+## Basic Functionality 
+
 A repo containing source code of a todo list application. The application 
 will feature Create, Read, Update and Delete (CRUD) functionality and there
 will be backend database which will store the tasks as a table. Each user will have
