@@ -1,4 +1,7 @@
 class taskGetters: 
+    ''' 
+    - grabs data from postgres DB 
+    '''
 
     def get_name():
     
