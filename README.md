@@ -18,3 +18,9 @@ Task Type 001 (Household chores):
 |  2 | Tim              |   Vaccum   |  Med     | In Progress |
 |  3 | Drake            |   Mop      |    Med   | Not Started |
 |  4 | Bruce            |   Make bed |   Low    | Not Started |
+
+## Currently working on... 
+
+Figuring out how to grab database data in Python. Let's say each time a user wants to add or update a task, having to manually do it through PostgreSQL would be a major pain. Not all users would want to install postgreSQL! (nor would everyone have space to do so). An eaiser way to add and/or update users would be to create a function which does this for you seamlessly. I was thinking of creating getters and setters for some fields (status, priority, and task). And of course a function to delete the user once they're finished with their task (or once the status of the task is "Done").
+
+In addition to the backend logic, I need to figure out what language and/or frontend framework to use for my web app. I will most likely be looking into JavaScript (or a JavaScript framework), since those are commonly used for making web applications.
